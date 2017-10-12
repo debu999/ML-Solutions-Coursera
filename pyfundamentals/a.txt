@@ -1,0 +1,14 @@
+File Write Testing in Python
+Putting next line char for universal new line
+ New Line addtion to the file
+ New Line addtion to the fileDebabrataPriyabrataDharmeshTrinathNibedita
+Debabrata
+Priyabrata
+Dharmesh
+Trinath
+Nibedita
+Debabrata
+Priyabrata
+Dharmesh
+Trinath
+Nibedita

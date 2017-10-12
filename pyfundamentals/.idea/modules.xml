@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../implementing-collections/.idea/implementing-collections.iml" filepath="$PROJECT_DIR$/../implementing-collections/.idea/implementing-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../p1/.idea/p1.iml" filepath="$PROJECT_DIR$/../p1/.idea/p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/project.iml" filepath="$PROJECT_DIR$/../.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyfundamentals.iml" filepath="$PROJECT_DIR$/.idea/pyfundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_Beyond_The_Basics/.idea/python_Beyond_The_Basics.iml" filepath="$PROJECT_DIR$/../python_Beyond_The_Basics/.idea/python_Beyond_The_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reader/.idea/reader.iml" filepath="$PROJECT_DIR$/../reader/.idea/reader.iml" />
+    </modules>
+  </component>
+</project>
