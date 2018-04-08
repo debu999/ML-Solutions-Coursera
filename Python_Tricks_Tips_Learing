@@ -1,0 +1,1 @@
+pip list --local # the command to list packages in virtualenv.
